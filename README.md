@@ -4,7 +4,6 @@ Privacy Policy
 
 Effective Date: 9/4/2024
 
-Introduction
 We are committed to protecting your privacy. This Privacy Policy outlines how we handle information in our savings calculator app.
 
 No Data Collection

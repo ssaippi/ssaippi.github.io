@@ -1,70 +1,99 @@
 # ssaippi.github.io
 
-Leaf Alert Privacy Policy
+Privacy Policy
+Last Updated: 3/6/25
 
-Effective Date: 9/22/2024
+Developer: Sam Ippisch
+Contact Email: ssaippiAPI@gmail.com
 
-Leaf Alert ("Company," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (“Leaf Alert” or “App”). Please read this policy carefully. If you do not agree with the terms of this policy, please do not access the App.
+Thank you for using Flirt GPT. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our App. By using the App, you agree to the terms outlined in this policy.
 
 1. Information We Collect
+We may collect the following types of information when you use the App:
 
-We collect limited personal information that is necessary to provide our services, including:
+a. Personal Information
+Name, Age, Gender, and Preferences: If you provide this information during account creation or while using the App.
 
-	•	Plant Data: Information you provide such as plant names, watering intervals, and reminder schedules.
-	•	Device Information: Device-specific information such as your device’s operating system and app version.
-	•	Subscription Data: Information related to your in-app purchases or subscription status.
+Email Address: If you contact us for support or subscribe to updates.
 
-We do not collect personally identifiable information (such as names, addresses, email addresses, etc.).
+b. Usage Data
+App Activity: Information about how you interact with the App, such as features used, time spent, and actions taken.
+
+Device Information: Device type, operating system, unique device identifiers, and IP address.
+
+c. User-Generated Content
+Messages and Responses: If you use features like message generation or chat, we may temporarily process the content you input to provide the service.
+
+d. Payment Information
+If you purchase a subscription, payment information is processed by a third-party payment provider (e.g., Apple App Store or Google Play Store). We do not store or have access to your payment details.
 
 2. How We Use Your Information
+We use the information we collect for the following purposes:
 
-We may use the information we collect for the following purposes:
+To provide, maintain, and improve the App's functionality.
 
-	•	To provide and improve the core functionality of the app, including managing plant reminders and notifications.
-	•	To process and manage your in-app purchases and subscriptions.
-	•	To display reminders based on your plant care schedule.
-	•	To identify plants using third-party plant identification services (if applicable).
+To personalize your experience and tailor content to your preferences.
 
-3. Notifications
+To process transactions and manage subscriptions.
 
-The App may send you push notifications to remind you about watering your plants. You can opt out of receiving these notifications by disabling push notifications in your device settings.
+To respond to your inquiries and provide customer support.
 
-4. Third-Party Services
+To analyze usage trends and improve the App's performance.
 
-Leaf Alert uses third-party services that may collect and process data on our behalf:
+To comply with legal obligations and enforce our terms of service.
 
-	•	Apple App Store: Used to manage in-app purchases and subscriptions.
-	•	Plant Identification API: Used to identify plants when you upload an image. Data sent to the API may include images and metadata.
+3. How We Protect Your Information
+We take reasonable measures to protect your information from unauthorized access, disclosure, or misuse. These measures include:
 
-We recommend that you review the privacy policies of these third-party services to understand how they handle your information.
+Using encryption for data transmission.
 
-5. Data Storage and Retention
+Limiting access to your information to authorized personnel only.
 
-All plant data (such as plant names and reminders) is stored locally on your device. In-app purchase data may be stored by Apple’s App Store. We do not store or access this data on our servers.
+Regularly reviewing and updating our security practices.
 
-6. Security
+However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
 
-We take reasonable measures to protect your information, but no system is completely secure. We cannot guarantee the security of your data transmitted through the App.
+4. Sharing Your Information
+We do not sell, trade, or rent your personal information to third parties. However, we may share your information in the following circumstances:
 
-7. Children’s Privacy
+Service Providers: With third-party vendors who assist us in operating the App (e.g., hosting, analytics, or payment processing). These providers are contractually obligated to protect your information.
 
-Our App is not intended for use by individuals under the age of 13. We do not knowingly collect information from children under 13.
+Legal Compliance: When required by law or to protect our rights, property, or safety.
 
-8. Your Data Rights
+Business Transfers: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new owner.
 
-You can request to delete your plant data at any time by uninstalling the app, which removes all local data stored on your device. If you wish to cancel your subscription, you can do so via your Apple ID account settings.
+5. Third-Party Services
+The App may integrate with third-party services (e.g., APIs for message generation). These services have their own privacy policies, and we encourage you to review them. We are not responsible for the practices of third-party services.
 
-9. Changes to This Privacy Policy
+6. Data Retention
+We retain your information only for as long as necessary to fulfill the purposes outlined in this policy or as required by law. For example:
 
-We may update this Privacy Policy from time to time. We will notify you of any significant changes by updating the “Effective Date” at the top of this policy.
+User-generated content (e.g., messages) is processed temporarily and not stored permanently.
+
+Account information is retained as long as your account is active.
+
+7. Your Rights
+Depending on your location, you may have the following rights regarding your information:
+
+Access: Request a copy of the information we hold about you.
+
+Correction: Request corrections to inaccurate or incomplete information.
+
+Deletion: Request deletion of your information, subject to legal obligations.
+
+Opt-Out: Opt out of receiving promotional communications.
+
+To exercise these rights, contact us at ssaippiAPI@gmail.com.
+
+8. Children's Privacy
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware of such collection, we will take steps to delete the information promptly.
+
+9. Changes to This Policy
+We may update this Privacy Policy from time to time. If we make significant changes, we will notify you through the App or via email. Your continued use of the App after any changes constitutes acceptance of the updated policy.
 
 10. Contact Us
-
 If you have any questions or concerns about this Privacy Policy, please contact us at:
+Email: ssaippiAPI@gmail.com
 
-ssaippiAPI@gmail.com
-
-Additional Notes:
-
-	Kindwise Privacy Policy.
- https://docs.google.com/document/d/1rxn6kYA5Vpor5mPWVJaB6Gryct1Qawqk_6GPwFywMog/edit
+DeepSeek Privacy Policy
+https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html

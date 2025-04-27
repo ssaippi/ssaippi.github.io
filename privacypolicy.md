@@ -6,7 +6,7 @@ Last Updated: 3/6/25
 Developer: Sam Ippisch
 Contact Email: ssaippiAPI@gmail.com
 
-Thank you for using Flirt GPT. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our App. By using the App, you agree to the terms outlined in this policy.
+Thank you for using Flirt AI. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our App. By using the App, you agree to the terms outlined in this policy.
 
 1. Information We Collect
 We may collect the following types of information when you use the App:

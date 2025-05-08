@@ -1,32 +1,35 @@
-Privacy Policy for Vibrate Phone
-Last Updated: 4/28/2025
+Last Updated: 5/8/2025
 
-Thank you for using Vibrate Phone ("the App"). Your privacy is important to us, and we want to be transparent about our practices.
+Thank you for using Vibrate Phone ("the App"). Your privacy is our top priority, and we are committed to ensuring a completely secure and private experience.
 
 1. Information We Collect
-Vibrate Phone does not collect, store, or transmit any personal information or usage data. The app operates entirely on your device without sending any information to external servers.
+Vibrate Phone does not collect, store, or transmit any personal information, usage data, or analytics. The app operates entirely on your device without sending any data to external servers.
 
 2. No Data Collection
-Specifically, we do not:
+We explicitly do not:
 
-Collect personal information
+Collect names, emails, or any personal identifiers.
 
-Store usage statistics
+Track user behavior or app usage.
 
-Track user behavior
+Use analytics tools (e.g., Google Analytics, Firebase).
 
-Use analytics tools
+Access your contacts, photos, location, or other sensitive data.
 
-Integrate with third-party services that collect data
+Share data with third parties.
 
-Access your contacts, photos, or other personal data
+3. AI-Generated Stories (Powered by DeepSeek AI)
+The App includes an AI Story Generator using DeepSeek AI for relaxation narratives.
 
-3. In-App Purchases
-The App offers optional in-app purchases through the Apple App Store. All payment processing is handled by Apple, and we do not have access to your payment information.
+All story generation happens locally—no prompts or inputs leave your device.
 
-4. Changes to This Policy
-If we update our privacy policy, we will post the changes here with a new "Last Updated" date.
+We do not store or log any generated content.
 
-5. Contact Us
-If you have any questions about this privacy policy, please contact us at:
-ssaippiAPI@gmail.com
+4. In-App Purchases
+Optional purchases are processed solely by Apple’s App Store. We never handle payment details or transaction data.
+
+5. Changes to This Policy
+Updates will be posted here with a revised "Last Updated" date. Continued use signifies acceptance.
+
+6. Contact Us
+For questions, contact: ssaippiAPI@gmail.com

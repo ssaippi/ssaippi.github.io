@@ -29,7 +29,7 @@ Kindwise’s Privacy Policy: https://www.kindwise.com/privacy-policy
 b) DeepSeek API (AI Responses)
 Your insect-related questions are sent to DeepSeek for AI-generated answers.
 
-DeepSeek’s Privacy Policy: https://deepseek.com/privacy
+DeepSeek’s Privacy Policy: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
 
 We do not control these third-party services, so we recommend reviewing their policies.
 

@@ -24,7 +24,7 @@ This data cannot be linked back to you personally.
 a) Kindwise Insect.ID API (Identification)
 Your insect images are processed by Kindwise to provide identification results.
 
-Kindwise’s Privacy Policy: https://www.insect.id/privacy-policy
+Kindwise’s Privacy Policy: https://www.kindwise.com/privacy-policy
 
 b) DeepSeek API (AI Responses)
 Your insect-related questions are sent to DeepSeek for AI-generated answers.

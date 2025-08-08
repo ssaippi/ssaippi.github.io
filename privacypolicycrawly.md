@@ -1,17 +1,18 @@
-Last Updated: 5/27/25
+Bug Scanner Privacy Policy
+Last Updated: May 27, 2025
 
-This Privacy Policy explains how Crawly handles information in our insect identification app. Since Crawly does not require user accounts, we minimize data collection while providing our services.
+This Privacy Policy explains how Bug Scanner handles information in our insect identification app. Since Bug Scanner does not require user accounts, we minimize data collection while providing our services.
 
-By using Crawly, you agree to this policy.
+By using Bug Scanner, you agree to this policy.
 
 1. Information We Process
 a) Insect Photos (For Identification)
-When you submit a photo for insect identification, we send it to Kindwise’s Insect.ID API for analysis.
+When you submit a photo for insect identification, we send it to OpenAI’s API for analysis.
 
 We do not permanently store your insect images on our servers after processing.
 
 b) Insect-Related Questions (AI Responses)
-If you ask questions about insects, we send them to DeepSeek’s API to generate helpful answers.
+If you ask questions about insects, we send them to OpenAI’s API to generate helpful answers.
 
 Questions are processed temporarily and not stored long-term.
 
@@ -21,39 +22,34 @@ We collect non-identifiable data (e.g., feature usage, crash reports) to improve
 This data cannot be linked back to you personally.
 
 2. Third-Party Services
-a) Kindwise Insect.ID API (Identification)
-Your insect images are processed by Kindwise to provide identification results.
+a) OpenAI API (Identification & AI Responses)
+Your insect images and questions are processed by OpenAI to provide identification results and AI-generated answers.
 
-Kindwise’s Privacy Policy: https://www.kindwise.com/privacy-policy
+OpenAI’s Privacy Policy: https://openai.com/policies/privacy-policy
 
-b) DeepSeek API (AI Responses)
-Your insect-related questions are sent to DeepSeek for AI-generated answers.
-
-DeepSeek’s Privacy Policy: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
-
-We do not control these third-party services, so we recommend reviewing their policies.
+We do not control OpenAI’s services, so we recommend reviewing their policies.
 
 3. Data Storage & Security
 No long-term storage: Insect photos and questions are deleted after processing.
 
-No personal accounts: Since Crawly doesn’t require sign-ups, we don’t collect emails, usernames, or passwords.
+No personal accounts: Since Bug Scanner doesn’t require sign-ups, we don’t collect emails, usernames, or passwords.
 
 Encryption & security measures: We use industry-standard practices to protect data in transit.
 
 4. Data Sharing & Disclosure
 We do not sell or share your data except:
 
-When necessary for Kindwise/DeepSeek API processing.
+When necessary for OpenAI API processing.
 
 If legally required (e.g., court orders).
 
 5. Children’s Privacy
-Crawly is not intended for children under 13. We do not knowingly collect data from minors.
+Bug Scanner is not intended for children under 13. We do not knowingly collect data from minors.
 
 6. Changes to This Policy
-We may update this policy. Continued use of Crawly means you accept the revised terms.
+We may update this policy. Continued use of Bug Scanner means you accept the revised terms.
 
 7. Contact Us
 For privacy-related questions, email us at: ssaippiapi@gmail.com
 
-Thank you for using Crawly! 🐞🔍
+Thank you for using Bug Scanner! 🐞🔍

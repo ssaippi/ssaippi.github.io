@@ -1,5 +1,5 @@
 Bug Scanner Privacy Policy
-Last Updated: May 27, 2025
+Last Updated: Aug 7, 2025
 
 This Privacy Policy explains how Bug Scanner handles information in our insect identification app. Since Bug Scanner does not require user accounts, we minimize data collection while providing our services.
 

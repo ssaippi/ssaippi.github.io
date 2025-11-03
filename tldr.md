@@ -2,7 +2,7 @@ Privacy Policy for TLDR • Yap Assistant
 Last Updated: 10/31/2025
 
 1. Introduction
-TLDR • Yap Assistant ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+TLDR • Yap Translator ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 2. Information We Collect
 
@@ -112,5 +112,5 @@ If you have any questions about this Privacy Policy, please contact us at:
 Email: ssaippiapi@gmail.com
 
 13. Consent
-By using TLDR • Yap Assistant, you consent to the terms outlined in this Privacy Policy.
+By using TLDR • Yap Translator, you consent to the terms outlined in this Privacy Policy.
 
